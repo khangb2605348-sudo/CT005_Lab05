@@ -1,1 +1,1 @@
-# CT005_Lab05
+# CT005 – Lab05 – Phan Trọng Khang – B2605348 – CT005
